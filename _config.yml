@@ -7,7 +7,7 @@ title: 朝色のBLOG
 subtitle: '永動機研究所的 ArchLinux 教徒'
 description: ''
 keywords:
-author: Weiliang1503
+author: zhaose
 language: zh_TW
 timezone: ''
 
@@ -124,7 +124,7 @@ live2d:
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:weiliang1503/weiliang1503.git
+  repo: git@github.com:zhaose233/zhaose233.git
   branch: master
 
 # Search
